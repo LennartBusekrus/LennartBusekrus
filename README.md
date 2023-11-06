@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Lennart aka @lbsekr
 - ⏳ I spend most of my time when coding pursuing projects in Go or Typescript. Check out my repositories while you're here.
-- 📫 You can reach me via mail: hello@busekrus.me
+- 📫 You can reach me via mail: hello@lbsekr.xyz
